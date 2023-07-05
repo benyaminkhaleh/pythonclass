@@ -1,0 +1,1 @@
+print("Hlello beautiful world")
