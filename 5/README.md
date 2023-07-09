@@ -1,7 +1,7 @@
 # 7
 ![7](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/b4a2e8d3-50df-4bab-a783-8741861c1562)
 # Methods in str
-![methods in list](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/5467a352-4692-4e38-ae20-27cc4ffd0587)
+![methods in list](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/b2060637-ba05-4378-9a61-8574ea020d60)
 # Name and word
 ![name and word](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/feaa8d81-0e17-46a7-859a-320f2ef9b0f2)
 # Odd and even
