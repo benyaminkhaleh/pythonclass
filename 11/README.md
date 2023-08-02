@@ -3,7 +3,7 @@
 # *factorial*
 ![Factorial](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/bd41f596-fea4-4cd1-b4b8-d4b976990b45)
 # *Fhangman*
-![fhangman](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/9651a69f-aa38-4ab5-b16d-4048307ef5f8)
+![fhangman](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/cf0cfae9-0e53-4f48-81b6-5591d896bbe9)
 # *fibonacci
 ![Fibonacci](https://github.com/benyaminkhaleh/pythonclass/assets/137895968/aa179bf3-1268-4c80-a904-809d5c9e7890)
 # *Fnumber guessing game*
